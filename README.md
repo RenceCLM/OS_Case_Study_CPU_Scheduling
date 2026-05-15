@@ -7,6 +7,7 @@ Includes algorithms for FCFS, SFJ, SRT, Round Robin, Priority (Non-Preemptive an
 
 Requirements:
 python3.14
+
 pip install pygame
 
 run using "python app.py"
