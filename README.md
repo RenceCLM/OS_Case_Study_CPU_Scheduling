@@ -6,6 +6,7 @@ A Scheduling Algorithm Simulation created using Python and pygame
 Has algorithms for FCFS, SFJ, SRT, Round Robin, Priority (Non-Preemptive and Preemptive), and Priority + ROund Robin
 
 Requirements:
+python3.14
 pip install pygame
 
 run using "python app.py"
