@@ -10,6 +10,9 @@ python3.14
 
 pip install pygame
 
-run using "python app.py"
+
+git clone https://github.com/RenceCLM/OS_Case_Study_CPU_Scheduling.git
+cd OS_Case_Study_CPU_Scheduling/
+python app.py
 
 <img width="1392" height="843" alt="Example" src="https://github.com/user-attachments/assets/df477277-fa1a-4c8a-bae2-a8e7b3253bbb" />
