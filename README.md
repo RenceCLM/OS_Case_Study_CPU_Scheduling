@@ -3,7 +3,7 @@ Submission for the OS Case Study
 
 A Scheduling Algorithm Simulation created using Python and pygame
 
-Has algorithms for FCFS, SFJ, SRT, Round Robin, Priority (Non-Preemptive and Preemptive), and Priority + ROund Robin
+Includes algorithms for FCFS, SFJ, SRT, Round Robin, Priority (Non-Preemptive and Preemptive), and Priority + Round Robin
 
 Requirements:
 python3.14
